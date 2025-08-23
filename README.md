@@ -1,10 +1,7 @@
-<div>
 <h3>👋 안녕하세요!</h3>
 <p>도전을 즐기는 정수빈입니다.</p>
 <p>프론트엔드 웹 개발자를 목표로 하고 있습니다. 🌱</p>
-</div>
-<br>
-<div>
+<br/>
 <h3>📧 Contact</h3>
 <p>
   <a href="mailto:37jsbean@naver.com">
@@ -14,8 +11,6 @@
     <img src="https://img.shields.io/badge/Tech Blog-333333?style=flat&logo=tistory&logoColor=white"/>
   </a>
 </p>
-</div>
-<div>
 <h3>⚙️ Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flate&logo=html5&logoColor=white"/>
@@ -54,7 +49,6 @@
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 </p>
-</div>
 <br/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rhdid2)](https://solved.ac/rhdid2)
