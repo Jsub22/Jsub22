@@ -1,8 +1,8 @@
 <h3>👋 안녕하세요!</h3>
 <p>도전을 즐기는 정수빈입니다.</p>
-<p>프론트엔드 웹 개발자를 목표로 하고 있습니다. 🌱</p>
+<p> 웹 개발자를 목표로 하고 있습니다.</p>
 <br/>
-<h3>📧 Contact</h3>
+<h3>Contact</h3>
 <p>
   <a href="mailto:37jsbean@naver.com">
     <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white"/>
@@ -11,22 +11,20 @@
     <img src="https://img.shields.io/badge/Tech Blog-333333?style=flat&logo=tistory&logoColor=white"/>
   </a>
 </p>
-<h3>⚙️ Stack</h3>
+<h3>Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flate&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJS-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-333333?style=flat&logo=Zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-333333?style=flat&logo=websocket&logoColor=white"/>
 </p>
 <p>  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -43,8 +41,16 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
